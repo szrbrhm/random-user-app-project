@@ -7,6 +7,7 @@ import LogoPhone from '../../media/phone.svg';
 import LogoLock from '../../media/padlock.svg';
 import LogoGrow from '../../media/growing-up-man.svg';
 import axios from 'axios';
+import { func } from 'prop-types';
 
 const Card = ({item}) => {
     
@@ -20,6 +21,7 @@ const Card = ({item}) => {
       getItem();
       console.log(newUser)
     },[newUser])
+
 
     return (
         <div className="container-main">
