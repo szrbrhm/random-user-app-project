@@ -7,9 +7,6 @@ import Footer from './components/Footer/Footer';
 import axios from 'axios';
 
 function App() {
-  
- 
-
   return (
     <div className="App">
       <Header/>
