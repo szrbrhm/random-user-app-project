@@ -47,7 +47,7 @@ function hideText(txt) {
 
   return (
     <div className="container-main">
-      <div> 
+      <div className="card-container"> 
           <img className="image" src={item1?.picture?.medium} alt=""/>
         <div className="text-container">
           <p className="text name">
