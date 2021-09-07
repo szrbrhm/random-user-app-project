@@ -10,7 +10,10 @@ import Clarusway from './media/cw.svg';
 function App() {
   return (
     <div className="App">
-      <Header/>
+      <div>
+      <img className="cw" src={Clarusway} alt=""/>
+      </div>
+      {/* <Header/> */}
       <Card />
       <Footer/>
     </div>

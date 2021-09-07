@@ -3,11 +3,15 @@
   padding: 0;
   text-align: center;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   flex-direction: column;
-  background-color: blanchedalmond;
+  background: linear-gradient(to bottom, #00A19D 50%, #FFF8E5 50%);
   height: 100vh;
+  
 }
 
-
+.cw{
+  width: 100px;
+  height: 100px;
+}
