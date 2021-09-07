@@ -18,6 +18,7 @@ const Card = ({ item }) => {
     axios
       .get("https://randomuser.me/api/")
       .then((res) => setItem1(res?.data?.results[0]));
+      
   };
   useEffect(() => {
     getItem();
