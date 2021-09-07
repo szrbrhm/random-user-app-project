@@ -7,7 +7,7 @@ function Footer() {
         <div className="footer">
             <p>&#60;ed8en/&#62;</p>
             <img className="design" src={Design} alt="" />
-            <p>design</p>
+            <p id="text">design</p>
         </div>
     )
 }
