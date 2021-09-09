@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.ac9f1de1.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.ac9f1de1.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.d91466ac.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.d91466ac.js.map",
-    "static/js/2.76aa6586.chunk.js": "/react-gh-pages/static/js/2.76aa6586.chunk.js",
-    "static/js/2.76aa6586.chunk.js.map": "/react-gh-pages/static/js/2.76aa6586.chunk.js.map",
-    "static/js/3.e5545e97.chunk.js": "/react-gh-pages/static/js/3.e5545e97.chunk.js",
-    "static/js/3.e5545e97.chunk.js.map": "/react-gh-pages/static/js/3.e5545e97.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/react-gh-pages/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.76aa6586.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.76aa6586.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-gh-pages/static/media/logo.6ce24c58.svg"
+    "main.css": "/random-user-app-project/static/css/main.da73f4b7.chunk.css",
+    "main.js": "/random-user-app-project/static/js/main.688d7535.chunk.js",
+    "main.js.map": "/random-user-app-project/static/js/main.688d7535.chunk.js.map",
+    "runtime-main.js": "/random-user-app-project/static/js/runtime-main.e780b9a1.js",
+    "runtime-main.js.map": "/random-user-app-project/static/js/runtime-main.e780b9a1.js.map",
+    "static/js/2.ade81508.chunk.js": "/random-user-app-project/static/js/2.ade81508.chunk.js",
+    "static/js/2.ade81508.chunk.js.map": "/random-user-app-project/static/js/2.ade81508.chunk.js.map",
+    "static/js/3.bbf6f2f6.chunk.js": "/random-user-app-project/static/js/3.bbf6f2f6.chunk.js",
+    "static/js/3.bbf6f2f6.chunk.js.map": "/random-user-app-project/static/js/3.bbf6f2f6.chunk.js.map",
+    "index.html": "/random-user-app-project/index.html",
+    "static/css/main.da73f4b7.chunk.css.map": "/random-user-app-project/static/css/main.da73f4b7.chunk.css.map",
+    "static/js/2.ade81508.chunk.js.LICENSE.txt": "/random-user-app-project/static/js/2.ade81508.chunk.js.LICENSE.txt",
+    "static/media/cw.22310668.svg": "/random-user-app-project/static/media/cw.22310668.svg",
+    "static/media/design.9f215bce.svg": "/random-user-app-project/static/media/design.9f215bce.svg",
+    "static/media/growing-up-man.5024153b.svg": "/random-user-app-project/static/media/growing-up-man.5024153b.svg",
+    "static/media/growing-up-woman.a1585842.svg": "/random-user-app-project/static/media/growing-up-woman.a1585842.svg",
+    "static/media/mail.42e0750e.svg": "/random-user-app-project/static/media/mail.42e0750e.svg",
+    "static/media/man.4b684e29.svg": "/random-user-app-project/static/media/man.4b684e29.svg",
+    "static/media/map.8e5a2a58.svg": "/random-user-app-project/static/media/map.8e5a2a58.svg",
+    "static/media/padlock.8d2c33d2.svg": "/random-user-app-project/static/media/padlock.8d2c33d2.svg",
+    "static/media/phone.d017e1ae.svg": "/random-user-app-project/static/media/phone.d017e1ae.svg",
+    "static/media/woman.05242306.svg": "/random-user-app-project/static/media/woman.05242306.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d91466ac.js",
-    "static/js/2.76aa6586.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.ac9f1de1.chunk.js"
+    "static/js/runtime-main.e780b9a1.js",
+    "static/js/2.ade81508.chunk.js",
+    "static/css/main.da73f4b7.chunk.css",
+    "static/js/main.688d7535.chunk.js"
   ]
 }
